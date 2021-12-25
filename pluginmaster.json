@@ -1,0 +1,21 @@
+[
+    {
+        "Author": "perchbird, forked by mootykins",
+        "Name": "Neon Castbar",
+        "Punchline": "Modifies target castbars to be more noticible",
+        "Description": "Modifies target/focus target castbars to be a gradient based on how close the cast is to completing",
+        "InternalName": "NeonCastbarPlugin",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/oorzkws/DamageInfoPlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 5,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/oorzkws/DalamudPlugins/raw/master/plugins/NeonCastbarPlugin/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/oorzkws/DalamudPlugins/raw/master/plugins/NeonCastbarPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/oorzkws/DalamudPlugins/raw/master/plugins/NeonCastbarPlugin/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1640467882"
+    }
+]
