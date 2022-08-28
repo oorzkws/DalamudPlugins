@@ -5,10 +5,10 @@
         "Punchline": "Modifies target castbars to be more noticeable",
         "Description": "Modifies target/focus target castbars to be a gradient based on how close the cast is to completing",
         "InternalName": "NeonCastbarPlugin",
-        "AssemblyVersion": "1.4.1.0",
+        "AssemblyVersion": "1.4.2.1",
         "RepoUrl": "https://github.com/oorzkws/DamageInfoPlugin",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
+        "DalamudApiLevel": 7,
         "LoadPriority": 0,
         "DownloadLinkInstall": "https://github.com/oorzkws/DalamudPlugins/raw/master/plugins/NeonCastbarPlugin/latest.zip",
         "IsHide": false,
@@ -16,6 +16,6 @@
         "DownloadLinkTesting": "https://github.com/oorzkws/DalamudPlugins/raw/master/plugins/NeonCastbarPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/oorzkws/DalamudPlugins/raw/master/plugins/NeonCastbarPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1661667699"
+        "LastUpdated": "1661667817"
     }
 ]
