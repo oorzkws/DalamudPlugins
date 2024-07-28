@@ -1,14 +1,18 @@
 [
     {
-        "Author": "perchbird, forked by mootykins",
-        "Name": "Neon Castbar",
-        "Punchline": "Modifies target castbars to be more noticeable",
-        "Description": "Modifies target/focus target castbars to be a gradient based on how close the cast is to completing",
+        "Author": "oorzkws",
+        "Name": "Neon Castbars",
+        "Punchline": "Colors enemy castbars based on progress",
+        "Description": "Colors your target and/or focus target castbars based on their progress.",
         "InternalName": "NeonCastbarPlugin",
-        "AssemblyVersion": "6.5.0.0",
-        "RepoUrl": "https://github.com/oorzkws/DamageInfoPlugin",
+        "AssemblyVersion": "7.0.1.0",
+        "RepoUrl": "https://github.com/oorzkws/NeonCastbarPlugin",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 9,
+        "Tags": [
+            "cast bars",
+            "castbars"
+        ],
+        "DalamudApiLevel": 10,
         "LoadPriority": 0,
         "DownloadLinkInstall": "https://github.com/oorzkws/DalamudPlugins/raw/master/plugins/NeonCastbarPlugin/latest.zip",
         "IsHide": false,
@@ -16,6 +20,6 @@
         "DownloadLinkTesting": "https://github.com/oorzkws/DalamudPlugins/raw/master/plugins/NeonCastbarPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/oorzkws/DalamudPlugins/raw/master/plugins/NeonCastbarPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1696543828"
+        "LastUpdated": "1722202532"
     }
 ]
